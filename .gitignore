@@ -1,0 +1,15 @@
+# exclude these types of files
+*.gz
+*.cmd
+*.bat
+*.pdf
+*.txt
+*.dll
+*.so
+*.exe
+*.dylib
+*.cookie
+
+bin/
+logs/
+vendor/
